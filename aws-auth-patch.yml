@@ -15,7 +15,7 @@ data:
       username: system:node:{{EC2PrivateDNSName}}
   mapUsers: |
     []
-    
+
 kind: ConfigMap
 metadata:
   creationTimestamp: "2021-02-26T07:40:38Z"
